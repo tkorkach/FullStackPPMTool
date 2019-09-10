@@ -17,7 +17,7 @@ class ProjectItem extends Component {
               <ul className="list-group">
                 <a href="#">
                   <li className="list-group-item board">
-                    <i className="fa fa-flag-checkered pr-1"> Project Board </i>
+                    <i className="fa fa-flag-checkered pr-1">Project Board </i>
                   </li>
                 </a>
                 <a href="#">
